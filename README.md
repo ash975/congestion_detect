@@ -1,3 +1,7 @@
 # congestion_detect
 
-![attrs](https://github.com/ash975/congestion_detect/blob/master/doc/%E6%8B%A5%E5%A0%B5%E6%A3%80%E6%B5%8B.png?raw=true)
+## 光流法测速
+![光流法测速](./doc/光流法测速.png)
+
+## 背景差分方法测占道比
+![背景差分方法测占道比](./doc/背景差分方法测占道比.png)
